@@ -1,2 +1,2 @@
 # Cube
-Its a spinning cube.
+You spin me right round baby right round.
